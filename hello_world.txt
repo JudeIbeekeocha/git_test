@@ -1,1 +1,1 @@
-Wokking with Git, GitHub, and the Terminal.
+Working with Git, GitHub, and the Terminal.
